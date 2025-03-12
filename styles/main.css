@@ -28,7 +28,7 @@ html{
 /*--- HEADER ---*/
 header{
     /* background-image: url(../images/hero.jpg); */
-    background-image:   linear-gradient(rgba(0,0,0,.9), rgba(56,100,225,.25)), 
+    background-image:   linear-gradient(rgba(0,0,0,.9), rgba(00,33,55,.25)), 
                         url(../images/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
